@@ -10,4 +10,4 @@
 
 ## Навыки и инстументы:
 
-Python, Pandas, Numpy, Matplotlib, Scikit-learn, Keras
+Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, Keras
