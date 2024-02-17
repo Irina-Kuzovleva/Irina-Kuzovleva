@@ -8,6 +8,6 @@
 
 ## Ссылка на портфолио: https://github.com/Irina-Kuzovleva/Portfolio
 
-## Навыки и инстументы:
+## Навыки и инструменты:
 
 Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, Keras
