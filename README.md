@@ -12,6 +12,7 @@
 
 ## Ссылка на портфолио: 
 Фриланс-проекты - https://github.com/Irina-Kuzovleva/Freelance-projects
+
 Учебные проекты Яндекс.Практикум - https://github.com/Irina-Kuzovleva/Portfolio
 
 ## Навыки и инструменты:
